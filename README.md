@@ -40,8 +40,8 @@ I'm currently learning **Graph Theory** and this repository contains my code imp
 ```bash
 /graph-practice
 │
-├── bfs.java
-├── dfs.java
+├── breadth_first_search.java
+├── depth_first_search.java
 ├── dijkstra.java
 ├── prims_for_disconnected.java
 ├── ...
