@@ -38,6 +38,14 @@ class dijkstra_algorithm{
         adj.get(1).add(new pair(2,2));
         adj.get(2).add(new pair(3,2));
         adj.get(3).add(new pair(4,10));
+        
+        // For undirected graph
+        // adj.get(1).add(new pair(0,4));
+        // adj.get(2).add(new pair(0,8));
+        // adj.get(4).add(new pair(1,6));
+        // adj.get(2).add(new pair(1,2));
+        // adj.get(3).add(new pair(2,2));
+        // adj.get(4).add(new pair(3,10));
         System.out.println(Arrays.toString(dijsktra(0,v,adj)));
     }
 }
