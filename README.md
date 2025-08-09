@@ -26,6 +26,8 @@ I'm currently learning **Graph Theory** and this repository contains my code imp
 - Cycle Detection (Directed & Undirected)
 - Connected Components
 - Disconnected Graph Handling
+- Topological sort
+- Bellman ford algorithm
 
 ---
 
